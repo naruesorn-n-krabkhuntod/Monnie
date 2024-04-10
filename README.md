@@ -5,7 +5,7 @@ money track and manage app
 โปรเจคไม่แสวงหากำไรนี้ จัดทำขึ้นเพื่อเป็นแอพ mvp ของผู้พัฒนา
 
 ### ฟีเจอร์หลัก
-- [ ]  บันทึกรายรับ รายจ่าย
+- [ ] บันทึกรายรับ รายจ่าย
 - [ ]  มีแท็กแยกหมวดหมู่
 - [ ]  สแกนสลิป แล้วบันทึกลงรายการอัตโนมัติ
 - [ ]  สรุปข้อมูลรายวัน และแจ้งเตือนย้อนหลัง 1 วัน
@@ -13,3 +13,6 @@ money track and manage app
 - [ ]  แยกได้หลายบัญชี
 - [ ]  ติดตามราคา บันทึกและตรวจสอบกำไร - ขาดทุนในหุ้น
 - [ ]  ตั้งแจ้งเตือนค่าใช้จ่ายรายเดือน
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
