@@ -13,6 +13,3 @@ money track and manage app
 - [ ]  แยกได้หลายบัญชี
 - [ ]  ติดตามราคา บันทึกและตรวจสอบกำไร - ขาดทุนในหุ้น
 - [ ]  ตั้งแจ้งเตือนค่าใช้จ่ายรายเดือน
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
